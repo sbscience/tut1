@@ -8,5 +8,7 @@ This is the line after 'git config --global -e'
 
 This is new branch 'dev1'..
     branched from master-branch
+
+    This is some text added in dev1-branch..
     
 
