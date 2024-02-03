@@ -5,4 +5,8 @@ This line is added in master-branch..
 This is the line after 'git config --global -e'
     (1) user.name = "anselmus-jm"
     (2) user.email = sbscience@gmail.com
+
+This is new branch 'dev1'..
+    branched from master-branch
     
+
